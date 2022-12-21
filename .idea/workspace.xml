@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a785a2bf-c6d6-409f-a1ae-7cf3354b6e05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ivwz7zlcNmBYBTvlMtg4Fh7XT8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gxf.App" />
+      <module name="tomcat-debug" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gxf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a785a2bf-c6d6-409f-a1ae-7cf3354b6e05" name="Default Changelist" comment="" />
+      <created>1671075624065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671075624065</updated>
+      <workItem from="1671075626224" duration="10420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="86" width="1140" height="675" key="#Project_Structure" timestamp="1671077135110">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="213" y="86" width="1140" height="675" key="#Project_Structure/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671077135110" />
+    <state width="1384" height="28" key="GridCell.Tab.0.bottom" timestamp="1671518387489">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.0.bottom/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387489" />
+    <state width="1384" height="28" key="GridCell.Tab.0.center" timestamp="1671518387488">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.0.center/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387488" />
+    <state width="1384" height="28" key="GridCell.Tab.0.left" timestamp="1671518387488">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.0.left/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387488" />
+    <state width="1384" height="28" key="GridCell.Tab.0.right" timestamp="1671518387489">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.0.right/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387489" />
+    <state width="1384" height="28" key="GridCell.Tab.1.bottom" timestamp="1671518387490">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.1.bottom/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387490" />
+    <state width="1384" height="28" key="GridCell.Tab.1.center" timestamp="1671518387490">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.1.center/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387490" />
+    <state width="1384" height="28" key="GridCell.Tab.1.left" timestamp="1671518387489">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.1.left/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387489" />
+    <state width="1384" height="28" key="GridCell.Tab.1.right" timestamp="1671518387490">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1384" height="28" key="GridCell.Tab.1.right/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671518387490" />
+    <state x="333" y="189" width="674" height="486" key="find.popup" timestamp="1671076409665">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="333" y="189" width="674" height="486" key="find.popup/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671076409665" />
+    <state x="72" y="60" key="new project wizard" timestamp="1671076865507">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="72" y="60" key="new project wizard/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671076865507" />
+    <state x="335" y="164" width="670" height="676" key="search.everywhere.popup" timestamp="1671076505358">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="335" y="164" width="670" height="676" key="search.everywhere.popup/0.25.1440.815/-1920.25.1920.1055@0.25.1440.815" timestamp="1671076505358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tomcat-debug/src/main/java/gxf/servlert/HelloWorldServlet.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/apache-tomcat-8.5.84-src/java/org/apache/tomcat/util/net/NioEndpoint.java</url>
+          <line>622</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/apache-tomcat-8.5.84-src/java/org/apache/tomcat/util/net/NioEndpoint.java</url>
+          <line>617</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
